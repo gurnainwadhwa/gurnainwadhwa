@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **a tech based comapny**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gurnainwadhwa](https://github.com/gurnainwadhwa)
+- 👨‍💻 All of my projects are available at [https://github.com/gurnainwadhwa?tab=repositories](https://github.com/gurnainwadhwa?tab=repositories)
 
 - 📫 How to reach me **gurnainwadhwa2505@gmail.com**
 
