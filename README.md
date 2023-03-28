@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gurnainwadhwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gurnainwadhwa" height="30" width="40" /></a>
- <a href="https://leetcode.com/gurnainwadhwa" target="blank"><img align="center"src="https://img.icons8.com/color/48/000000/leetcode.png"/></a> alt="gurnainwadhwa" height="30" width="40" /></a>
+ <a href="https://leetcode.com/gurnainwadhwa" target="blank"><img align="center"src=["https://img.icons8.com/color/48/000000/leetcode.png"](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fleetcode-3521542&psig=AOvVaw29dZz7gCNY4zr1tnWu9UXL&ust=1680096514719000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDa_7Dd_v0CFQAAAAAdAAAAABAK)/></a> alt="gurnainwadhwa" height="30" width="40" /></a>
   
 <a href="https://linkedin.com/in/gurnainwadhwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@gurnainwadhwa" height="30" width="40" /></a>
 <a href="https://fb.com/gurnain.wadhwa.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gurnainwadhwa" height="30" width="40" /></a>
