@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Android development**
 
+- 🔭 As a professional with strong problem-solving skills, I have experience in tackling challenging coding problems on platforms such as LeetCode and HackerRank, where I have achieved a 3-star and 5-star rating respectively
+
 - 👯 I’m looking to collaborate with **a tech based comapny**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gurnainwadhwa?tab=repositories](https://github.com/gurnainwadhwa?tab=repositories)
+- 👨‍💻 Few of my projects are available at [https://github.com/gurnainwadhwa?tab=repositories](https://github.com/gurnainwadhwa?tab=repositories)
 
 - 📫 How to reach me **gurnainwadhwa2505@gmail.com**
 
